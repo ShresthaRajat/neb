@@ -1,0 +1,25 @@
+{
+  "name": "neb",
+  "version": "1.0.0",
+  "description": "sample application to be deployed on elastic beanstalk",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShresthaRajat/neb.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rajat Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShresthaRajat/neb/issues"
+  },
+  "homepage": "https://github.com/ShresthaRajat/neb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
