@@ -1,6 +1,6 @@
 {
   "name": "neb",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "sample application to be deployed on elastic beanstalk",
   "main": "application.js",
   "scripts": {
